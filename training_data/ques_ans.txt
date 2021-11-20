@@ -1,0 +1,87 @@
+What is COVID-19?
+COVID-19 is a disease caused by a new coronavirus, which has not been previously identified in humans. In most cases, COVID-19 causes mild symptoms including dry cough, tiredness and fever, though fever may not be a symptom for some older people. Other mild symptoms include aches and pains, nasal congestion, runny nose, sore throat or diarrhoea. Some people become infected but don't develop any symptoms and don't feel unwell. Most people recover from the disease without needing special treatment. Around 1 out of every 6 people who get COVID-19 becomes seriously ill and has difficulty breathing.
+Where can I find the latest information on COVID-19?
+For the latest information on COVID-19, check regularly on the WHO's coronavirus pages: https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+Is there a vaccine for COVID-19?
+Yes. The first mass vaccination programme started in early December 2020 and the number of vaccination doses administered is updated on a daily basis here. At least 13 different vaccines (across 4 platforms) have been administered. Campaigns have started in 206 economies. The Pfizer/BioNtech Comirnaty vaccine was listed for WHO Emergency Use Listing (EUL) on 31 December 2020. The SII/Covishield and AstraZeneca/AZD1222 vaccines (developed by AstraZeneca/Oxford and manufactured by the Serum Institute of India and SK Bio respectively) were given EUL on 16 February.
+Is there a drug or treatment for COVID-19?
+While some western, traditional or home remedies may provide comfort and alleviate symptoms of mild COVID-19, there are no medicines that have been shown to prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials of both western and traditional medicines. WHO is coordinating efforts to develop vaccines and medicines to prevent and treat COVID-19 and will continue to provide updated information as soon as research results become available
+What are the symptoms of COVID-19?
+The most common symptoms of COVID-19 are Fever, Dry cough, Fatigue         Other symptoms that are less common and may affect some patients include:  Loss of taste or smell, Nasal congestion, Conjunctivitis (also known as red eyes) Sore throat, Headache, Muscle or joint pain, Different types of skin rash, Nausea or vomiting, Diarrhea, Chills or dizziness. 
+Who is most at risk of severe illness from COVID-19?
+People aged 60 years and over, and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness.  However, anyone can get sick with COVID-19 and become seriously ill or die at any age.
+What is the difference between isolation and quarantine?
+Quarantine is used for anyone who is a contact of someone infected with the SARS-CoV-2 virus, which causes COVID-19, whether the infected person has symptoms or not. Quarantine means that you remain separated from others because you have been exposed to the virus and you may be infected and can take place in a designated facility or at home.
+Isolation is used for people with COVID-19 symptoms or who have tested positive for the virus. Being in isolation means being separated from other people, ideally in a medically facility where you can receive clinical care.  If isolation in a medical facility is not possible and you are not in a high risk group of developing severe disease, isolation can take place at home. If you have symptoms, you should remain in isolation for at least 10 days plus an additional 3 days without symptoms. If you are infected and do not develop symptoms, you should remain in isolation for 10 days from the time you test positive.
+How long does it take to develop symptoms?
+The time from exposure to COVID-19 to the moment when symptoms begin is, on average, 5-6 days and can range from 1-14 days. This is why people who have been exposed to the virus are advised to remain at home and stay away from others, for 14 days, in order to prevent the spread of the virus, especially where testing is not easily available.
+What should I do if I have COVID-19 symptoms?
+If you have any symptoms suggestive of COVID-19, call your health care provider or COVID-19 hotline for instructions and find out when and where to get a test, stay at home for 14 days away from others and monitor your health. If you have shortness of breath or pain or pressure in the chest, seek medical attention at a health facility immediately. Call your health care provider or hotline in advance for direction to the right health facility. If you live in an area with malaria or dengue fever, seek medical care if you have a fever. 
+Are antibiotics effective in preventing or treating COVID-19?
+Antibiotics do not work against viruses; they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. In hospitals, physicians will sometimes use antibiotics to prevent or treat secondary bacterial infections which can be a complication of COVID-19 in severely ill patients. They should only be used as directed by a physician to treat a bacterial infection.
+Where can I register for COVID-19 vaccination?
+You can log into the Co-WIN portal using the link www.cowin.gov.in and click on the "Register/Sign In yourself" tab to register for COVID-19 vaccination.
+Is there a mobile app that needs to be installed to register for vaccination?
+There is no authorised mobile app for registering for vaccination in India except Aarogya Setu. You need to log into the Co-WIN portal. Alternatively, you can also register for vaccination through the Aarogya Setu App.
+Which age groups can register for vaccination on the Co-WIN portal?
+All citizens aged 18 years and above can register for vaccination.
+Is online registration mandatory for Covid 19 vaccination?
+Vaccination Centres provide for a limited number of on-spot registration slots every day. Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. However, Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before going to vaccination centre. In general, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.
+How many people can be registered in the Co-WIN portal through one mobile number?
+Up to 4 people can be registered for vaccination using the same mobile number.
+How can citizens with no access to smart phones or computers manage online registration?
+Up to 4 people can be registered for vaccination using the same mobile number. Citizens can take help from friends or family for online registration.
+Is there any registration charge to be paid?
+No. There is no registration charge.
+Can I book an appointment for vaccination in the Co-WIN portal?
+Yes, you can book appointment for vaccination through Co-WIN portal after logging-in to the Co-WIN Portal through your registered mobile number. The system will show vaccination centres that allow vaccination as per the age of the citizen entered in the registration portal.
+What are the options if one citizen is aged 45 or above and other is aged 18 or above?
+If one citizen is aged 45 or above and other citizen is aged 18 to 44 years and both want to schedule a combined appointment, then only private paid vaccination centres or vaccination centres as per State’s policy will be made available. However, it may happen that some hospitals which are catering to people with 45 years or more may not allow the booking of appointments for people with lesser age. In that case you may make bookings one by one. 
+Can I check the vaccine being administered at each vaccination centre?
+Yes, while scheduling an appointment for vaccination, the system will show vaccination centre names along with the name of the vaccine that will be administered in case of private hospitals. Government hospitals may not show the name of the vaccine.
+Can I download appointment slip?
+Yes, the appointment slip can be downloaded after the appointment has been scheduled.
+How can I find the nearest vaccination centre?
+You can search in Co-WIN portal (or Aarogya Setu) for the vaccination centre nearest to your location by either searching through PIN code or by choosing the State and the District.
+What if I cannot go for vaccination on the date of appointment? Can I reschedule my appointment?
+The appointment can be rescheduled at any time. In case you are not able to go for vaccination on the date of appointment, you can reschedule the appointment by clicking on "Reschedule" tab.
+Do I have an option for cancellation of appointment?
+Yes, you can cancel an appointment already scheduled. You can also reschedule the appointment and choose another date or time slot of your convenience.
+Where will I receive confirmation of date and time of vaccination?
+Once an appointment is scheduled, you will receive the details of the vaccination centre, date and time slot chosen for appointment in an SMS sent to your registered mobile number. You can also download the appointment slip and print it or keep it on your smart phone.
+Can I get vaccination without appointment?
+Citizens aged 45 years and above can schedule appointments online or walk-in to vaccination centres. Citizens aged 18-44 years should mandatorily register themselves and schedule appointment online before vaccination.  However, all citizens are recommended to register online and schedule vaccination in advance for a hassle-free vaccination experience.
+Is it necessary to take 2nd dose of vaccination?
+Yes. It is recommended that both doses of vaccine should be taken for realising the full benefit of vaccination. Both doses must be of the same vaccine type.
+When should I take the 2nd dose of vaccination?
+It is recommended that the 2nd dose of COVAXIN should be administered in the interval of 4 to 6 weeks from the date of 1st dose administration. For COVISHIELD the recommended interval is 4 to 8 weeks while an interval of 6 to 8 weeks gives an enhanced protection. You may choose the date of 2nd dose vaccination as per your convenience.
+Will my 2nd dose appointment be automatically scheduled by Co-WIN system?
+No. You have to take an appointment for the 2nd dose vaccination. The Co-WIN system will
+help you book an appointment in a Vaccination Centre where the same vaccine is being
+administered as the vaccine type (COVAXIN or COVISHIELD) of the 1st dose.
+Whom can I contact if I have some problems related to my online registration of appointment?
+You can call on the national helpline '1075' for information and guidance on COVID-19
+vaccination and Co-WIN software related queries.
+Vaccination
+Is vaccination free at all vaccination centres?
+No. Currently, vaccination is free at Government hospitals and charged at INR 750-1200 in Private hospitals for citizens aged 45 years and above. From 1st May onwards, the Vaccination for people of 45 years or more will continue to be free at the Government facilities. For people between 18 to 44 years the States will announce the policy relating to payment. Vaccination will be priced by private facilities and you can see the price of each vaccine at the time of booking.
+Can I check the price of the vaccine?
+Yes. The System will show the price of the vaccine below the name of the vaccination centre at the time of scheduling an appointment.
+Can I choose the vaccine?
+System will show the vaccine being administered in each vaccination centre at the time of scheduling an appointment. Citizen can choose the vaccination centre as per their choice of vaccine being administered However, the choice will not be available at the Government facilities .
+What precautions should I take at the time of 2nd dose vaccination?
+The Vaccination Centres have been directed to ensure that if a citizen is being vaccinated with 2nd dose, they should confirm that the first dose vaccination was done with the same vaccine as is being offered at the time of second dose and that the first dose was administered more than 28 days ago. You should share the correct information about the  vaccine type and the date of 1st dose vaccination with the vaccinator. You should carry your vaccine certificate issued after the first dose.
+Can I get vaccinated with 2nd dose in a different State/District?
+Yes, you can get vaccinated in any State/District. The only restriction is that you will be able to get vaccinated only on those centres which are offering the same vaccine as was administered to you on your first dose.
+Which documents should I carry with me for vaccination?
+You should carry your identity proof specified by you at the time of registration on the CoWIN portal and a printout/screenshot of your appointment slip.
+I have registered myself on Co-Win portal. However, I am not able to make any booking as I do not see any vaccination facility near my location? What should I do?
+Yes, it is possible that no facility near your place has published their vaccination program as yet. You may wait for some time till vaccination facilities near your place are onboarded on Co-Win platform, become active and start their services.
+Why do I need a vaccination certificate?
+A COVID Vaccine Certificate (CVC) issued by the government offers an assurance to the beneficiary on the vaccination, type of vaccine used, and the provisional certificate also provides the next vaccination due. It also is an evidence for the citizen to prove to any entities which may require proof of vaccination specially in case of travel. Vaccination not only protects individuals from disease, but also reduces their risk of spreading the virus. Therefore, there could be a requirement in future to produce certificate for certain kind of social interactions and international travel. 
+Who is responsible for providing the vaccination certificate?
+The Vaccination Centre is responsible for generating your certificate and for providing a printed copy post vaccination on the day of vaccination itself. Please do insist on receiving the certificate at the Centre. For Private Hospitals, the charges for providing a printed copy of the certificate are included in the service charge for vaccination.
+Where can I download vaccination certificate from?
+You can download vaccination certificate from the Co-WIN portal (cowin.gov.in) or the Aarogya Setu app or through Digi-Locker by following the simple steps. You may do so by using the mobile number used at the time of registration.
+
+
